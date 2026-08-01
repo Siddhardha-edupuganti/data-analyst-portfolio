@@ -1,20 +1,42 @@
 # Data Analyst Portfolio 📊
 
-Hi, I'm Siddhardha Edupuganti, an aspiring Data Analyst passionate about SQL, Power BI, and data visualization.
-
-This repository contains the projects I'm building as I learn and practice Data Analytics.
+Hi, I'm **Siddhardha Edupuganti**, an aspiring Data Analyst passionate about SQL, Power BI, Excel, and Python.
 
 ## Skills
-- SQL
+- SQL (PostgreSQL)
 - Power BI
 - Excel
 - Python (Learning)
 
 ## Projects
-- SQL Projects (Coming Soon)
-- Power BI Dashboards (Coming Soon)
+
+### SQL
+- 01_Basic_SQL
+- 02_Joins
+- 03_Group_By_Having
+- 04_CASE_WHEN
+- 05_Subqueries
+- 06_CTEs
+- 07_Window_Functions
+- 08_Interview_Challenges
+
+### Power BI
+Coming Soon
+
+### Excel
+Coming Soon
+
+## Tools
+- PostgreSQL
+- TablePlus
+- Power BI
+- Microsoft Excel
+- Git
+- GitHub
 
 ## Goal
-My goal is to improve my data analytics skills by working on real-world projects and continuously learning new technologies.
 
-Thanks for visiting my portfolio!
+To build real-world data analytics projects and continuously improve my problem-solving skills.
+
+---
+⭐ Thanks for visiting my portfolio.
